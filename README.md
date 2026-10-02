@@ -1,4 +1,4 @@
-# Portafolio Personal - Actividad Web
+# Portafolio Personal - Programación Web
 
 **Nombre del estudiante:** Evelin Aleida Pablo Delgado  
 **Modalidad:** Individual  
@@ -12,8 +12,6 @@ Este proyecto es un portafolio web funcional y responsivo desarrollado con **HTM
 * **Framework CSS utilizado:** Bootstrap v5.2.3
 * **Plantilla Base:** Creative por Start Bootstrap
 * **Link de descarga de la plantilla original:** [Start Bootstrap - Creative](https://startbootstrap.com/theme/creative)
-
-# Portafolio Personal - Actividad Web
 
 
 ## Secciones del Portafolio
@@ -41,7 +39,7 @@ Este proyecto es un portafolio web funcional y responsivo desarrollado con **HTM
 
 ## Capturas de Pantalla
 
-![Vista principal del portafolio](assets/img/cap.png)
+![Vista principal del portafolio](dist/assets/img/cap.png)
 
 ---
 
