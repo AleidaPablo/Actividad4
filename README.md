@@ -39,7 +39,7 @@ Este proyecto es un portafolio web funcional y responsivo desarrollado con **HTM
 
 ## Capturas de Pantalla
 
-![Vista principal del portafolio](dist/assets/img/cap.png)
+![Vista principal del portafolio](assets/img/cap.png)
 
 ---
 
