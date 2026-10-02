@@ -41,14 +41,13 @@ Este proyecto es un portafolio web funcional y responsivo desarrollado con **HTM
 
 ## Capturas de Pantalla
 
-![Vista principal del portafolio](img/captura-readme.png)
+![Vista principal del portafolio](assets/img/cap.png)
 
 ---
 
 ## Enlaces de Entrega
 
-* **Repositorio de GitHub:** `https://github.com/TU-USUARIO/NOMBRE-REPOSITO`
-* **Sitio publicado en GitHub Pages:** `https://TU-USUARIO.github.io/NOMBRE-REPOSITO/`
-
+* **Repositorio de GitHub:** `https://github.com/AleidaPablo/Actividad4.git`
+* **Sitio publicado en GitHub Pages:** `https://aleidapablo.github.io/Actividad4/`
 ---
 
