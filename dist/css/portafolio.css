@@ -1,0 +1,80 @@
+/* ==========================================================================
+   Sobrescritura de Colores a Morado / Púpura
+   ========================================================================== */
+
+:root {
+    --bs-primary: #6f42c1 !important;
+    --bs-primary-rgb: 111, 66, 193 !important;
+    --bs-primary-hover: #593196 !important;
+}
+
+/* Foto de perfil */
+.profile-img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border: 4px solid #ffffff;
+}
+
+/* Botones principales en morado */
+.btn-primary {
+    background-color: #6f42c1 !important;
+    border-color: #6f42c1 !important;
+    color: #ffffff !important;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+    background-color: #593196 !important;
+    border-color: #593196 !important;
+}
+
+/* Textos e Iconos primarios */
+.text-primary {
+    color: #6f42c1 !important;
+}
+
+/* Divisores decorativos */
+hr.divider {
+    background-color: #6f42c1 !important;
+    opacity: 1 !important;
+}
+
+/* Fondo de sección Sobre Mí */
+.bg-primary {
+    background-color: #6f42c1 !important;
+}
+
+/* Overlay de la galería de proyectos al pasar el cursor */
+#portfolio .portfolio-box .portfolio-box-caption {
+    background: rgba(111, 66, 193, 0.9) !important;
+}
+
+/* Encabezado principal (Hero background con filtro morado) */
+/* Encabezado Principal con tu foto en assets/img/ */
+header.masthead {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 4.5rem);
+  /* Agregamos assets/ a la ruta de la imagen */
+  background: linear-gradient(to bottom, rgba(111, 66, 193, 0.6) 0%, rgba(89, 49, 150, 0.7) 100%), url("../assets/img/bg-masthead.jpg") !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-attachment: scroll !important;
+  background-size: cover !important;
+}
+
+@media (min-width: 992px) {
+  header.masthead {
+    height: 100vh;
+    min-height: 40rem;
+    padding-top: 4.5rem;
+    padding-bottom: 0;
+  }
+}
+
+/* Menú de navegación cuando tiene scroll */
+#mainNav.navbar-shrink .navbar-nav .nav-item .nav-link.active,
+#mainNav.navbar-shrink .navbar-nav .nav-item .nav-link:hover {
+    color: #6f42c1 !important;
+}
